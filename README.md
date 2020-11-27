@@ -1,3 +1,3 @@
 # COVID-19 Bibliometric Data Repository
 
-All data along with python codes used in our manuscript entitiled "A Subject-Level Time-Trend and Bibliometric Analysis of COVID-19 Publications" will be available after publication.
+All data used in our manuscript entitiled "How the Scientific Community Responded to the COVID-19 Pandemic: A Subject-Level Time-Trend and Bibliometric Analysis" are deposited here.
